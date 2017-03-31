@@ -252,7 +252,13 @@ Wrap */
 	color: white
 }
 
+#woc {
+       text-align: right;
+}
 
+#woc p {
+       color: white 
+}
 
 /* Global Values */
 
