@@ -249,16 +249,9 @@ Wrap */
 }
 
 #c p {
-	color: white
+	color: white;
 }
 
-#woc {
-       text-align: right;
-}
-
-#woc p {
-       color: black; 
-}
 
 /* Global Values */
 
