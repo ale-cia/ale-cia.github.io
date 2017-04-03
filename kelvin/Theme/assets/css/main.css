@@ -175,7 +175,8 @@ Wrap */
 }
 
 #headerwrap h1 {
-	color: #8024b4;
+	color: black;
+/* 	color: #8024b4; */
 	font-size: 80px;
 /* 	font-weight: bold; */
 	
