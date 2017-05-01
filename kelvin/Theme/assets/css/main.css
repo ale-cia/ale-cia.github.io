@@ -247,8 +247,8 @@ Wrap */
 /* Copyright Wrap */
 
 #c {
-/* 	background: #222222; */
-	background: green;
+	background: #222222; 
+/* 	background: green; */
 	padding-top: 15px;
 	text-align: right;
 }
@@ -258,7 +258,7 @@ Wrap */
 }
 
 #test {
-	padding-right: 50px;
+	padding-left: 50px;
 }
 
 /* Global Values */
