@@ -247,7 +247,8 @@ Wrap */
 /* Copyright Wrap */
 
 #c {
-	background: #222222;
+/* 	background: #222222; */
+	background: green;
 	padding-top: 15px;
 	text-align: right;
 }
